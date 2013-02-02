@@ -1,4 +1,4 @@
-# MP3 Library Builder
+# Cribbage Helper
 # By: Christopher Olsen
 # Version: 0.01 (in (non-active) development)
 # License: GNU GPL
